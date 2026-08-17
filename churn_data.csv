@@ -1,0 +1,501 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churned,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0002-ORFBO,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,1982-04-12,,,,
+0003-MKNFE,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,1995-11-23,2024-08-28,Y,10.0,2.0
+0004-TLHLJ,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,1978-02-15,,,,
+0011-IGKFF,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,2001-08-30,,,,
+0013-EXCHZ,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,1990-05-05,2024-01-20,Y,20.0,1.0
+0013-MHZWF,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,0,durga,India,Delhi,Female,1988-12-10,2025-03-18,N,90.0,1.0
+0013-SMEOE,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,1976-09-21,2024-11-01,N,30.0,1.0
+0014-BMAQU,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,1999-03-14,,,,
+0015-UOCOJ,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,1985-07-07,,,,
+0016-QLJIS,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,1993-10-29,,,,
+0017-DINOC,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,1997-01-22,,,,
+0017-IUDMW,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,1981-06-18,2024-04-10,Y,25.0,1.0
+0018-NYROU,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,chitra,India,Telangana,Female,2004-12-01,,,,
+0019-EFAEP,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,1992-04-25,2024-09-27,Y,30.0,1.0
+0019-GFNTW,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,1979-11-11,,,,
+0020-INWCK,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,1986-02-28,,,,
+0020-JDNXP,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,1994-08-19,,,,
+0021-IKXGC,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,2000-09-02,,,,
+0022-TCJCI,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,1983-12-30,2024-09-14,N,90.0,2.0
+0023-HGHWL,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,1991-05-14,,,,
+0023-UYUPN,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,1977-10-06,,,,
+NEW-0001,2024-07-03,Paid,2025-07-03,Standard,Annual,,,14.99,1156,30,0,Ankit Agarwal,India,West Bengal,Male,1980-01-07,,,,
+NEW-0002,2022-12-31,Refferal,2023-01-31,Basic,Monthly,,,6.99,450,26,0,Ankit Bansal,India,Haryana,Female,1970-07-08,,,,
+NEW-0003,2023-02-19,Organic,2023-03-21,Standard,Monthly,,,16.99,956,33,0,Sakshi Joshi,India,Rajasthan,Female,1990-07-09,2026-06-17,N,90.0,1.0
+NEW-0004,2019-04-14,Organic,2020-04-13,Standard,Annual,,,14.99,1985,23,0,Riya Nair,India,Gujarat,Female,1993-07-14,,,,
+NEW-0005,2024-02-15,Organic,2026-02-14,Premium,Annual,,,26.99,2164,33,0,Rohan Shah,India,Haryana,Female,1991-02-01,,,,
+NEW-0006,2020-09-05,Organic,2021-09-06,Basic,Annual,2021-10-28,Too expensive,8.99,501,66,1,Manish Joshi,India,West Bengal,Female,2006-02-08,2026-04-18,Y,50.0,3.0
+NEW-0007,2023-02-25,Refferal,2023-03-28,Premium,Monthly,,,24.99,2125,30,0,Pooja Kapoor,India,Rajasthan,Female,1978-03-19,,,,
+NEW-0008,2021-03-25,Paid,2023-03-25,Standard,Annual,,,13.99,1416,34,0,Arjun Saini,India,Delhi,Male,1970-01-04,,,,
+NEW-0009,2020-07-06,Refferal,2022-07-06,Standard,Annual,,,16.99,1537,24,0,Rohit Malhotra,India,Uttar Pradesh,Male,1970-03-26,,,,
+NEW-0010,2023-08-15,Organic,2025-08-14,Standard,Annual,2025-10-04,Switched to competitor,14.99,1009,65,1,Shivam Kapoor,India,Rajasthan,Male,1988-09-27,,,,
+NEW-0011,2024-01-18,Paid,2024-02-17,Basic,Monthly,,,6.99,458,38,0,Neha Yadav,India,Delhi,Female,1998-12-28,,,,
+NEW-0012,2019-10-12,Paid,2019-11-09,Standard,Monthly,,,13.99,1466,35,0,Sameer Nair,India,Maharashtra,Male,1996-07-10,,,,
+NEW-0013,2024-12-10,Organic,2025-12-10,Standard,Annual,,,14.99,1106,28,0,Ayush Verma,India,West Bengal,Male,1990-04-08,,,,
+NEW-0014,2024-03-15,Organic,2024-04-14,Basic,Monthly,,,8.99,406,22,0,Ayush Patel,India,Rajasthan,Female,1993-11-28,,,,
+NEW-0015,2021-08-05,Refferal,2022-08-06,Standard,Annual,,,13.99,1576,18,0,Meera Kapoor,India,Gujarat,Female,1975-05-22,,,,
+NEW-0016,2020-03-25,Paid,2020-04-25,Standard,Monthly,2020-07-10,Switched to competitor,14.99,1012,79,1,Nisha Joshi,India,Maharashtra,Male,1985-10-15,,,,
+NEW-0017,2021-01-29,Paid,2022-01-30,Standard,Annual,,,15.99,1628,4,0,Ansh Gupta,India,Rajasthan,Male,1989-07-24,,,,
+NEW-0018,2021-11-18,Refferal,2022-11-18,Basic,Annual,,,6.99,592,32,0,Akshay Bansal,India,Uttar Pradesh,Male,1981-09-13,,,,
+NEW-0019,2024-02-11,Organic,2025-02-11,Premium,Annual,,,28.99,2268,32,0,Aditi Bansal,India,Haryana,Male,2000-10-06,,,,
+NEW-0020,2022-12-30,Organic,2023-12-30,Standard,Annual,,,16.99,1269,34,0,Shivam Saini,India,Punjab,Male,2000-10-17,,,,
+NEW-0021,2021-03-19,Refferal,2021-04-16,Standard,Monthly,,,13.99,1296,33,0,Mohit Bansal,India,Haryana,Female,2004-06-12,,,,
+NEW-0022,2023-03-25,Organic,2023-04-25,Basic,Monthly,,,8.99,427,21,0,Ankit Verma,India,Maharashtra,Female,1996-10-11,,,,
+NEW-0023,2019-04-06,Organic,2019-05-07,Basic,Monthly,2019-09-07,Switched to competitor,7.99,508,81,1,Ansh Kumar,India,West Bengal,Male,1999-09-05,,,,
+NEW-0024,2021-12-22,Refferal,2022-12-22,Basic,Annual,,,7.99,667,27,0,Ansh Das,India,Tamil Nadu,Male,2007-08-30,2022-01-29,N,70.0,1.0
+NEW-0025,2022-11-08,Refferal,2022-12-08,Premium,Monthly,2023-04-05,Not enough content,26.99,1441,76,1,Harsh Shah,India,West Bengal,Male,2003-06-06,2026-06-01,Y,30.0,2.0
+NEW-0026,2021-12-21,Paid,2022-01-18,Basic,Monthly,,,6.99,520,34,0,Aarav Chauhan,India,West Bengal,Female,2005-09-05,,,,
+NEW-0027,2020-10-09,Paid,2020-11-06,Premium,Monthly,,,22.99,2585,29,0,Tanvi Arora,India,Rajasthan,Male,1987-08-23,,,,
+NEW-0028,2023-01-03,Paid,2023-01-31,Basic,Monthly,,,8.99,515,32,0,Mohit Joshi,India,Rajasthan,Female,1971-11-13,2026-07-30,Y,60.0,1.0
+NEW-0029,2020-04-22,Organic,2020-05-20,Basic,Monthly,2020-08-23,Too expensive,7.99,420,79,1,Pankaj Chauhan,India,West Bengal,Male,2002-05-21,,,,
+NEW-0030,2021-12-11,Organic,2022-12-12,Basic,Annual,2023-04-13,Poor service,6.99,392,81,1,Shivam Nair,India,Karnataka,Male,1974-10-08,,,,
+NEW-0031,2022-07-02,Refferal,2023-07-02,Basic,Annual,,,6.99,589,19,0,Rohan Jain,India,Uttar Pradesh,Female,1996-04-03,,,,
+NEW-0032,2022-11-28,Organic,2022-12-29,Basic,Monthly,2023-04-06,Too expensive,8.99,322,67,1,Riya Joshi,India,Uttar Pradesh,Female,2002-06-21,2024-06-04,Y,40.0,3.0
+NEW-0033,2019-03-30,Organic,2019-04-29,Basic,Monthly,,,8.99,573,24,0,Kavya Jain,India,Uttar Pradesh,Male,1995-03-07,,,,
+NEW-0034,2019-02-13,Paid,2020-02-13,Basic,Annual,,,7.99,758,54,0,Vikas Rana,India,West Bengal,Male,1989-01-14,,,,
+NEW-0035,2026-05-30,Paid,2027-05-30,Basic,Annual,,,7.99,402,20,0,Sneha Nair,India,Punjab,Female,2008-03-10,,,,
+NEW-0036,2020-01-27,Paid,2020-02-24,Standard,Monthly,,,15.99,1524,22,0,Vivek Saini,India,West Bengal,Female,1997-12-09,,,,
+NEW-0037,2020-03-18,Paid,2021-03-19,Standard,Annual,,,15.99,1542,23,0,Divya Nair,India,Maharashtra,Female,1973-10-12,,,,
+NEW-0038,2022-09-01,Organic,2022-10-02,Basic,Monthly,,,6.99,481,30,0,Sakshi Kapoor,India,Karnataka,Female,1999-07-06,,,,
+NEW-0039,2022-05-30,Paid,2022-06-29,Basic,Monthly,2022-07-16,Not enough content,6.99,362,76,1,Aditi Rana,India,Uttar Pradesh,Female,2007-07-11,,,,
+NEW-0040,2024-06-26,Paid,2025-06-27,Premium,Annual,2025-08-13,Too expensive,26.99,1510,76,1,Riya Shah,India,West Bengal,Female,1991-08-25,2025-03-31,Y,40.0,1.0
+NEW-0041,2024-10-05,Paid,2024-11-05,Basic,Monthly,2025-03-11,Too expensive,7.99,283,79,1,Rohan Patel,India,Haryana,Male,1971-04-19,2026-04-18,Y,40.0,2.0
+NEW-0042,2026-06-23,Paid,2027-06-24,Standard,Annual,,,15.99,942,37,0,Bhavna Singh,India,Tamil Nadu,Male,2002-09-09,2026-07-13,Y,50.0,1.0
+NEW-0043,2025-02-14,Paid,2025-03-14,Standard,Monthly,,,15.99,837,30,0,Naina Singh,India,Gujarat,Male,1978-05-15,,,,
+NEW-0044,2020-01-23,Organic,2020-02-22,Standard,Monthly,,,15.99,1468,34,0,Rohit Yadav,India,Gujarat,Female,1976-12-14,,,,
+NEW-0045,2024-07-18,Organic,2024-08-15,Premium,Monthly,,,26.99,1696,23,0,Aryan Kapoor,India,Karnataka,Male,1988-12-19,2025-10-08,N,80.0,1.0
+NEW-0046,2020-04-19,Paid,2022-04-19,Basic,Annual,,,7.99,775,31,0,Tanya Mehta,India,Rajasthan,Female,1995-01-28,,,,
+NEW-0047,2025-02-18,Organic,2026-02-19,Premium,Annual,,,26.99,2057,34,0,Tanvi Kumar,India,Haryana,Male,1979-02-18,2026-04-16,Y,80.0,1.0
+NEW-0048,2026-02-05,Organic,2026-03-07,Basic,Monthly,2026-07-31,Too expensive,7.99,219,73,1,Naina Rana,India,Maharashtra,Male,2005-08-02,,,,
+NEW-0049,2024-01-28,Organic,2024-02-27,Basic,Monthly,2024-08-11,Poor service,6.99,335,81,1,Rohit Kapoor,India,West Bengal,Male,2006-06-30,,,,
+NEW-0050,2021-11-10,Organic,2021-12-11,Basic,Monthly,,,6.99,576,29,0,Shreya Rana,India,West Bengal,Male,1976-11-13,,,,
+NEW-0051,2024-04-03,Organic,2024-05-01,Basic,Monthly,,,8.99,408,12,0,Varun Nair,India,West Bengal,Male,2002-11-09,2025-03-04,N,80.0,1.0
+NEW-0052,2019-05-20,Organic,2019-06-19,Standard,Monthly,,,14.99,1357,6,0,Pooja Mehta,India,Haryana,Female,1996-06-28,,,,
+NEW-0053,2024-12-12,Organic,2025-12-12,Basic,Annual,,,7.99,475,20,0,Rohan Agarwal,India,Rajasthan,Female,2002-12-25,,,,
+NEW-0054,2021-09-27,Refferal,2021-10-27,Standard,Monthly,,,13.99,1272,22,0,Sakshi Kumar,India,Gujarat,Female,2006-03-27,,,,
+NEW-0055,2026-01-28,Paid,2026-02-28,Premium,Monthly,2026-07-31,Too expensive,28.99,1106,81,1,Aryan Kapoor,India,Rajasthan,Female,1973-10-17,,,,
+NEW-0056,2021-04-18,Organic,2021-05-19,Basic,Monthly,2021-11-01,Too expensive,7.99,438,67,1,Tanvi Saini,India,West Bengal,Male,1978-07-11,,,,
+NEW-0057,2021-09-19,Organic,2021-10-19,Basic,Monthly,,,6.99,515,13,0,Akshay Joshi,India,Maharashtra,Male,1992-03-20,,,,
+NEW-0058,2022-02-16,Organic,2022-03-16,Standard,Monthly,,,16.99,1038,32,0,Aman Saini,India,Tamil Nadu,Male,1977-09-12,,,,
+NEW-0059,2020-04-17,Organic,2020-05-17,Standard,Monthly,,,13.99,1239,18,0,Akshay Singh,India,Tamil Nadu,Male,2006-11-28,,,,
+NEW-0060,2021-09-01,Paid,2021-09-29,Standard,Monthly,,,16.99,1332,20,0,Tanvi Rana,India,Punjab,Female,1992-12-24,,,,
+NEW-0061,2024-02-20,Paid,2024-03-22,Premium,Monthly,,,24.99,1756,38,0,Shivam Shah,India,Tamil Nadu,Male,1983-10-07,,,,
+NEW-0062,2021-10-29,Organic,2021-11-29,Basic,Monthly,2022-02-13,Poor service,8.99,350,74,1,Aryan Nair,India,West Bengal,Female,1975-01-28,,,,
+NEW-0063,2022-01-26,Organic,2022-02-26,Standard,Monthly,2022-05-14,Too expensive,16.99,883,80,1,Simran Sharma,India,Gujarat,Male,1974-04-26,,,,
+NEW-0064,2022-04-21,Organic,2022-05-22,Standard,Monthly,,,14.99,1185,6,0,Nisha Rana,India,Rajasthan,Female,2006-09-12,,,,
+NEW-0065,2022-05-25,Paid,2022-06-24,Standard,Monthly,,,15.99,1225,27,0,Aryan Gupta,India,Karnataka,Female,1975-10-06,,,,
+NEW-0066,2020-05-27,Paid,2022-05-27,Basic,Annual,2022-10-02,Not enough content,8.99,535,67,1,Pooja Jain,India,Maharashtra,Female,1971-09-06,,,,
+NEW-0067,2024-09-23,Refferal,2025-09-24,Basic,Annual,,,7.99,506,13,0,Tushar Verma,India,Tamil Nadu,Female,1995-03-15,,,,
+NEW-0068,2021-09-26,Refferal,2023-09-26,Standard,Annual,,,15.99,1629,47,0,Rohan Jain,India,Delhi,Female,1993-07-31,,,,
+NEW-0069,2024-10-02,Organic,2025-10-02,Basic,Annual,2026-02-19,Too expensive,7.99,288,78,1,Aditi Gupta,India,Karnataka,Male,1977-11-04,,,,
+NEW-0070,2021-08-20,Organic,2022-08-20,Standard,Annual,,,15.99,1384,14,0,Divya Patel,India,Haryana,Female,1996-12-24,,,,
+NEW-0071,2025-03-21,Organic,2027-03-21,Standard,Annual,,,15.99,957,39,0,Akshay Agarwal,India,Maharashtra,Female,1998-02-21,,,,
+NEW-0072,2020-06-20,Refferal,2020-07-21,Premium,Monthly,2020-11-17,Switched to competitor,22.99,2056,85,1,Aman Chauhan,India,Karnataka,Male,1989-11-21,,,,
+NEW-0073,2019-10-09,Organic,2019-11-08,Premium,Monthly,,,24.99,2433,16,0,Pooja Rana,India,Delhi,Female,1991-05-02,,,,
+NEW-0074,2023-08-09,Paid,2023-09-08,Standard,Monthly,2023-12-27,Poor service,15.99,786,87,1,Aryan Sharma,India,Maharashtra,Female,1981-07-31,,,,
+NEW-0075,2022-04-03,Paid,2022-05-01,Basic,Monthly,2022-09-30,Switched to competitor,7.99,333,68,1,Manish Jain,India,Tamil Nadu,Male,1993-08-31,,,,
+NEW-0076,2022-07-27,Paid,2022-08-26,Basic,Monthly,,,7.99,503,31,0,Rohan Bansal,India,Rajasthan,Female,1974-12-13,,,,
+NEW-0077,2024-01-30,Paid,2025-01-30,Premium,Annual,,,28.99,1984,23,0,Shreya Saini,India,Tamil Nadu,Female,2000-04-22,,,,
+NEW-0078,2022-04-19,Paid,2022-05-19,Basic,Monthly,,,6.99,492,44,0,Naina Patel,India,Uttar Pradesh,Female,2005-02-03,,,,
+NEW-0079,2025-12-09,Paid,2026-01-09,Basic,Monthly,,,6.99,334,34,0,Neha Bansal,India,Rajasthan,Male,1979-04-03,,,,
+NEW-0080,2019-10-01,Paid,2019-11-01,Premium,Monthly,2020-02-09,Too expensive,22.99,1824,80,1,Rohan Das,India,Tamil Nadu,Male,1982-12-20,,,,
+NEW-0081,2021-12-31,Organic,2022-01-31,Basic,Monthly,2022-02-13,Too expensive,8.99,416,80,1,Sakshi Sharma,India,Rajasthan,Female,1986-08-23,,,,
+NEW-0082,2021-02-24,Organic,2021-03-27,Standard,Monthly,,,16.99,1304,28,0,Nisha Rana,India,Gujarat,Male,2005-03-10,,,,
+NEW-0083,2019-11-02,Organic,2019-12-03,Standard,Monthly,2020-05-23,Too expensive,15.99,1004,59,1,Divya Agarwal,India,Maharashtra,Female,1971-05-24,,,,
+NEW-0084,2024-03-15,Paid,2024-04-12,Basic,Monthly,2024-05-21,Too expensive,6.99,261,65,1,Bhavna Agarwal,India,Rajasthan,Male,1983-08-15,,,,
+NEW-0085,2026-03-05,Organic,2028-03-04,Standard,Annual,,,15.99,809,22,0,Ankit Patel,India,Rajasthan,Female,1986-04-16,2026-06-16,N,80.0,1.0
+NEW-0086,2020-02-28,Refferal,2021-02-27,Basic,Annual,,,7.99,713,9,0,Rahul Das,India,Delhi,Female,1976-10-23,,,,
+NEW-0087,2019-07-13,Refferal,2020-07-13,Basic,Annual,,,7.99,715,34,0,Sourabh Mishra,India,Haryana,Female,1984-03-08,,,,
+NEW-0088,2024-08-05,Organic,2026-08-05,Basic,Annual,2026-07-31,Too expensive,7.99,323,75,1,Bhavna Das,India,Karnataka,Male,1971-05-08,,,,
+NEW-0089,2025-01-27,Organic,2025-02-26,Standard,Monthly,,,15.99,846,34,0,Sourabh Arora,India,Gujarat,Female,2000-12-13,,,,
+NEW-0090,2024-04-21,Refferal,2024-05-22,Standard,Monthly,,,13.99,1009,21,0,Varun Yadav,India,Delhi,Female,1990-11-22,,,,
+NEW-0091,2019-02-06,Organic,2019-03-09,Standard,Monthly,,,13.99,1590,11,0,Naina Gupta,India,Rajasthan,Male,1980-11-24,,,,
+NEW-0092,2023-10-31,Organic,2023-11-30,Standard,Monthly,,,16.99,988,27,0,Rahul Chauhan,India,Maharashtra,Female,2006-01-01,,,,
+NEW-0093,2024-06-28,Paid,2026-06-28,Standard,Annual,,,15.99,1064,28,0,Bhavna Yadav,India,Punjab,Female,2008-02-06,,,,
+NEW-0094,2021-07-12,Paid,2021-08-11,Basic,Monthly,,,8.99,578,14,0,Yash Agarwal,India,West Bengal,Male,1978-09-23,,,,
+NEW-0095,2019-10-03,Organic,2021-10-02,Premium,Annual,,,28.99,3197,28,0,Aditya Malhotra,India,Rajasthan,Male,1998-04-19,,,,
+NEW-0096,2025-06-21,Organic,2025-07-21,Premium,Monthly,2025-12-26,Not enough content,24.99,867,82,1,Aman Gupta,India,Rajasthan,Male,2001-08-28,2026-03-09,Y,40.0,2.0
+NEW-0097,2023-02-25,Organic,2023-03-28,Basic,Monthly,,,6.99,465,36,0,Varun Yadav,India,West Bengal,Male,1981-12-05,,,,
+NEW-0098,2019-03-14,Organic,2019-04-11,Basic,Monthly,2019-06-01,Not enough content,8.99,453,73,1,Akshay Verma,India,Delhi,Male,1998-02-04,,,,
+NEW-0099,2024-05-09,Refferal,2024-06-08,Basic,Monthly,,,6.99,443,21,0,Raj Mehta,India,Karnataka,Male,1986-10-01,,,,
+NEW-0100,2024-09-26,Organic,2024-10-24,Basic,Monthly,2025-01-11,Too expensive,6.99,240,64,1,Nikhil Yadav,India,Haryana,Female,1987-12-23,2025-08-23,Y,30.0,1.0
+NEW-0101,2019-07-03,Paid,2019-08-02,Premium,Monthly,,,24.99,2664,25,0,Varun Saini,India,Haryana,Female,1992-02-04,,,,
+NEW-0102,2025-12-10,Organic,2026-01-10,Standard,Monthly,2026-05-21,Too expensive,14.99,587,61,1,Riya Yadav,India,Maharashtra,Female,1991-04-15,2026-02-11,Y,80.0,1.0
+NEW-0103,2025-08-31,Paid,2025-09-30,Premium,Monthly,,,26.99,1590,34,0,Raj Shah,India,Haryana,Female,1975-07-09,,,,
+NEW-0104,2021-07-30,Organic,2021-08-29,Premium,Monthly,,,22.99,2292,19,0,Sonal Patel,India,Gujarat,Female,1984-02-02,,,,
+NEW-0105,2020-05-01,Organic,2021-05-02,Basic,Annual,,,6.99,704,35,0,Vivek Kapoor,India,Maharashtra,Female,1996-02-05,,,,
+NEW-0106,2020-12-13,Paid,2021-01-13,Basic,Monthly,,,6.99,592,34,0,Tushar Mishra,India,Punjab,Male,1993-03-10,,,,
+NEW-0107,2019-04-14,Refferal,2019-05-14,Basic,Monthly,2019-05-30,Poor service,6.99,461,89,1,Arjun Das,India,Maharashtra,Male,2003-07-06,,,,
+NEW-0108,2020-03-07,Paid,2020-04-07,Basic,Monthly,2020-09-15,Too expensive,6.99,472,77,1,Rohit Kapoor,India,Tamil Nadu,Female,1970-06-29,,,,
+NEW-0109,2024-03-31,Refferal,2026-03-31,Standard,Annual,,,13.99,1166,23,0,Neha Arora,India,Uttar Pradesh,Female,2002-09-20,,,,
+NEW-0110,2019-06-21,Organic,2019-07-19,Standard,Monthly,,,14.99,1348,19,0,Ananya Arora,India,Punjab,Male,1977-11-04,,,,
+NEW-0111,2022-07-28,Organic,2022-08-25,Basic,Monthly,,,6.99,455,37,0,Nikhil Arora,India,Punjab,Female,1979-03-07,,,,
+NEW-0112,2019-10-18,Organic,2021-10-17,Basic,Annual,,,6.99,710,27,0,Tushar Chauhan,India,Haryana,Male,2002-10-09,,,,
+NEW-0113,2025-03-28,Organic,2025-04-25,Basic,Monthly,2025-07-18,Too expensive,6.99,217,74,1,Varun Malhotra,India,Karnataka,Male,1998-04-04,,,,
+NEW-0114,2019-01-08,Refferal,2019-02-05,Basic,Monthly,,,6.99,598,44,0,Akshay Verma,India,Karnataka,Male,1976-06-28,,,,
+NEW-0115,2020-06-29,Refferal,2020-07-30,Basic,Monthly,,,8.99,604,39,0,Ansh Nair,India,Rajasthan,Male,2006-03-26,,,,
+NEW-0116,2024-11-08,Refferal,2024-12-08,Basic,Monthly,,,6.99,402,12,0,Harsh Chauhan,India,Maharashtra,Male,2002-04-18,,,,
+NEW-0117,2022-03-18,Refferal,2022-04-17,Standard,Monthly,,,15.99,1199,37,0,Vivek Joshi,India,Gujarat,Female,1987-10-01,,,,
+NEW-0118,2026-01-16,Refferal,2026-02-15,Standard,Monthly,,,15.99,771,36,0,Karan Singh,India,Gujarat,Female,1982-01-24,,,,
+NEW-0119,2026-06-03,Paid,2026-07-01,Basic,Monthly,,,7.99,288,21,0,Pooja Patel,India,Punjab,Male,1982-05-18,,,,
+NEW-0120,2021-04-12,Organic,2021-05-12,Basic,Monthly,2021-09-29,Poor service,6.99,378,71,1,Nikhil Chauhan,India,Gujarat,Male,1995-08-10,2024-10-25,Y,50.0,1.0
+NEW-0121,2021-01-01,Organic,2021-01-31,Standard,Monthly,2021-06-19,Too expensive,15.99,1006,78,1,Nikhil Bansal,India,Rajasthan,Female,1987-12-03,,,,
+NEW-0122,2023-08-03,Organic,2024-08-03,Standard,Annual,,,13.99,1270,34,0,Ansh Mishra,India,Punjab,Male,1991-06-01,,,,
+NEW-0123,2025-06-07,Organic,2025-07-08,Standard,Monthly,,,14.99,873,33,0,Ayush Verma,India,Karnataka,Female,1977-09-01,,,,
+NEW-0124,2023-07-28,Paid,2023-08-25,Standard,Monthly,2024-01-03,Poor service,13.99,620,90,1,Tanya Nair,India,Gujarat,Male,1975-01-16,,,,
+NEW-0125,2021-02-02,Organic,2021-03-02,Basic,Monthly,,,6.99,583,43,0,Aarav Rana,India,Delhi,Male,1998-03-11,,,,
+NEW-0126,2023-04-26,Refferal,2023-05-24,Standard,Monthly,,,14.99,1061,31,0,Tarun Singh,India,Rajasthan,Female,1979-10-01,,,,
+NEW-0127,2021-06-03,Organic,2021-07-03,Basic,Monthly,2021-12-15,Poor service,7.99,440,69,1,Ankit Mishra,India,Gujarat,Female,1990-01-30,2026-04-18,Y,40.0,2.0
+NEW-0128,2023-09-03,Organic,2023-10-03,Basic,Monthly,2023-10-26,Too expensive,6.99,270,78,1,Sanya Arora,India,Delhi,Male,1979-09-17,,,,
+NEW-0129,2020-06-04,Refferal,2020-07-05,Basic,Monthly,,,6.99,548,36,0,Vikas Gupta,India,Maharashtra,Female,2003-05-07,,,,
+NEW-0130,2023-07-14,Organic,2023-08-13,Standard,Monthly,,,15.99,930,32,0,Raj Bansal,India,Maharashtra,Female,1987-04-14,,,,
+NEW-0131,2022-03-21,Refferal,2022-04-21,Basic,Monthly,,,6.99,496,35,0,Vivek Verma,India,Punjab,Female,1984-02-10,2024-04-12,N,100.0,1.0
+NEW-0132,2019-01-04,Paid,2020-01-04,Basic,Annual,,,6.99,711,30,0,Tushar Verma,India,Delhi,Female,1998-04-29,,,,
+NEW-0133,2019-10-21,Organic,2019-11-18,Standard,Monthly,2019-11-22,Too expensive,16.99,858,68,1,Vivek Chauhan,India,Punjab,Male,1981-07-26,,,,
+NEW-0134,2022-11-28,Refferal,2023-11-28,Basic,Annual,,,6.99,530,29,0,Tanya Agarwal,India,Rajasthan,Female,1983-11-05,,,,
+NEW-0135,2024-08-26,Paid,2026-08-26,Premium,Annual,,,26.99,2124,26,0,Aryan Chauhan,India,Rajasthan,Male,2008-04-16,,,,
+NEW-0136,2023-12-27,Paid,2024-01-26,Basic,Monthly,,,6.99,421,8,0,Isha Yadav,India,Rajasthan,Male,1979-12-01,,,,
+NEW-0137,2024-08-15,Refferal,2024-09-14,Basic,Monthly,,,8.99,377,33,0,Kriti Singh,India,Rajasthan,Female,1983-08-13,,,,
+NEW-0138,2024-11-03,Organic,2025-11-04,Basic,Annual,,,6.99,423,22,0,Naina Mishra,India,Maharashtra,Female,1978-02-17,,,,
+NEW-0139,2023-08-25,Organic,2023-09-25,Basic,Monthly,2023-12-13,Not enough content,6.99,277,80,1,Naina Patel,India,Haryana,Male,1986-08-27,2026-04-20,N,100.0,1.0
+NEW-0140,2024-10-27,Paid,2024-11-27,Basic,Monthly,2025-04-22,Too expensive,8.99,220,88,1,Harsh Sharma,India,Gujarat,Female,1990-08-24,,,,
+NEW-0141,2023-10-12,Organic,2023-11-09,Standard,Monthly,,,16.99,895,39,0,Tushar Malhotra,India,Haryana,Female,2007-01-23,,,,
+NEW-0142,2022-12-04,Refferal,2024-12-03,Standard,Annual,,,16.99,1228,27,0,Kavya Mehta,India,Tamil Nadu,Female,1982-05-17,2025-09-29,Y,100.0,1.0
+NEW-0143,2020-06-09,Paid,2021-06-09,Basic,Annual,2021-11-29,Switched to competitor,6.99,536,79,1,Neha Patel,India,Rajasthan,Male,1977-08-25,,,,
+NEW-0144,2025-06-12,Organic,2025-07-12,Standard,Monthly,2025-12-12,Switched to competitor,13.99,628,73,1,Varun Nair,India,Gujarat,Male,2007-04-08,,,,
+NEW-0145,2022-04-09,Refferal,2022-05-09,Basic,Monthly,,,8.99,452,6,0,Sneha Chauhan,India,Uttar Pradesh,Female,1985-03-15,,,,
+NEW-0146,2024-10-25,Organic,2024-11-24,Premium,Monthly,,,22.99,1610,14,0,Rohit Rana,India,West Bengal,Female,1978-06-07,,,,
+NEW-0147,2020-07-18,Organic,2020-08-17,Basic,Monthly,,,6.99,578,24,0,Rohan Mehta,India,Punjab,Female,1971-11-21,2020-12-08,N,70.0,1.0
+NEW-0148,2023-04-27,Refferal,2023-05-28,Basic,Monthly,,,6.99,475,24,0,Priya Kapoor,India,Uttar Pradesh,Female,1985-10-26,,,,
+NEW-0149,2021-05-16,Paid,2021-06-13,Basic,Monthly,,,6.99,523,14,0,Rohan Mehta,India,Maharashtra,Female,1973-12-28,,,,
+NEW-0150,2022-06-07,Paid,2023-06-08,Standard,Annual,,,13.99,1560,20,0,Divya Rana,India,West Bengal,Female,1978-06-25,,,,
+NEW-0151,2025-03-04,Paid,2026-03-04,Basic,Annual,,,8.99,425,24,0,Bhavna Singh,India,Karnataka,Male,1977-06-01,,,,
+NEW-0152,2022-02-15,Paid,2022-03-17,Basic,Monthly,2022-05-09,Poor service,6.99,410,98,1,Tarun Saini,India,Rajasthan,Female,2005-08-15,,,,
+NEW-0153,2025-11-30,Organic,2025-12-30,Premium,Monthly,,,28.99,1518,15,0,Divya Mehta,India,Uttar Pradesh,Male,2005-06-21,,,,
+NEW-0154,2020-09-05,Organic,2022-09-05,Standard,Annual,,,15.99,1520,24,0,Kriti Yadav,India,Uttar Pradesh,Female,1987-09-15,,,,
+NEW-0155,2025-11-12,Organic,2025-12-12,Premium,Monthly,2026-01-01,Too expensive,24.99,1057,70,1,Naman Yadav,India,Haryana,Female,1978-01-26,2026-04-14,Y,20.0,1.0
+NEW-0156,2019-07-28,Organic,2020-07-28,Basic,Annual,2020-08-15,Switched to competitor,6.99,527,82,1,Naina Arora,India,Rajasthan,Female,1970-11-19,2023-04-17,Y,20.0,2.0
+NEW-0157,2019-05-17,Paid,2019-06-14,Basic,Monthly,2019-10-21,Poor service,6.99,395,80,1,Rohan Joshi,India,West Bengal,Male,1972-02-29,,,,
+NEW-0158,2023-02-23,Refferal,2023-03-25,Premium,Monthly,,,24.99,1888,36,0,Vivek Agarwal,India,Tamil Nadu,Male,2001-02-11,,,,
+NEW-0159,2023-01-17,Paid,2025-01-16,Basic,Annual,,,6.99,632,26,0,Isha Malhotra,India,Rajasthan,Female,1982-01-22,,,,
+NEW-0160,2021-05-16,Paid,2021-06-15,Basic,Monthly,2021-09-17,Too expensive,6.99,434,60,1,Rohit Yadav,India,Gujarat,Male,2004-01-08,,,,
+NEW-0161,2026-03-29,Refferal,2027-03-30,Basic,Annual,,,8.99,356,25,0,Riya Sharma,India,Uttar Pradesh,Female,1993-05-28,2026-05-26,N,80.0,1.0
+NEW-0162,2024-08-12,Organic,2026-08-12,Basic,Annual,,,6.99,474,10,0,Yash Agarwal,India,Gujarat,Female,2001-01-01,2025-02-03,N,50.0,1.0
+NEW-0163,2021-04-22,Organic,2021-05-22,Basic,Monthly,2021-11-16,Not enough content,6.99,381,75,1,Kavya Malhotra,India,Uttar Pradesh,Male,1992-02-21,2023-08-15,Y,50.0,1.0
+NEW-0164,2023-01-09,Organic,2023-02-06,Premium,Monthly,,,28.99,1935,25,0,Aryan Agarwal,India,Haryana,Female,1976-09-26,,,,
+NEW-0165,2019-04-30,Paid,2020-04-29,Standard,Annual,,,16.99,1841,4,0,Sourabh Yadav,India,West Bengal,Female,1994-03-14,,,,
+NEW-0166,2024-06-01,Organic,2024-07-01,Basic,Monthly,,,7.99,436,23,0,Harsh Yadav,India,Gujarat,Female,1992-05-18,,,,
+NEW-0167,2024-02-04,Organic,2026-02-03,Standard,Annual,,,16.99,1069,34,0,Shivam Saini,India,West Bengal,Male,1992-05-24,,,,
+NEW-0168,2026-07-17,Organic,2026-08-16,Premium,Monthly,2026-07-31,Not enough content,28.99,826,61,1,Kriti Singh,India,Karnataka,Female,1984-01-31,,,,
+NEW-0169,2021-08-12,Paid,2021-09-12,Standard,Monthly,,,16.99,1308,40,0,Mohit Bansal,India,Gujarat,Female,1999-11-09,,,,
+NEW-0170,2021-05-14,Refferal,2021-06-14,Basic,Monthly,,,8.99,506,33,0,Aarav Bansal,India,Rajasthan,Female,1974-04-03,,,,
+NEW-0171,2026-06-25,Organic,2026-07-23,Basic,Monthly,,,8.99,297,20,0,Akash Agarwal,India,Rajasthan,Male,1999-12-05,,,,
+NEW-0172,2021-02-05,Organic,2022-02-06,Basic,Annual,,,6.99,674,16,0,Tanya Bansal,India,Rajasthan,Male,2006-08-08,,,,
+NEW-0173,2019-06-15,Organic,2019-07-13,Standard,Monthly,,,13.99,1298,19,0,Meera Shah,India,Punjab,Female,1974-12-30,,,,
+NEW-0174,2023-10-15,Organic,2023-11-12,Basic,Monthly,,,8.99,471,29,0,Ayush Patel,India,Punjab,Male,1989-11-11,,,,
+NEW-0175,2026-07-21,Paid,2028-07-20,Standard,Annual,,,13.99,919,29,0,Sanya Shah,India,Gujarat,Male,1973-02-27,2026-07-05,N,90.0,1.0
+NEW-0176,2024-01-02,Organic,2024-02-02,Standard,Monthly,2024-06-22,Too expensive,15.99,739,77,1,Kriti Nair,India,Punjab,Male,1976-02-09,2025-03-13,Y,20.0,1.0
+NEW-0177,2020-09-02,Organic,2021-09-02,Premium,Annual,2022-01-26,Switched to competitor,24.99,2146,99,1,Naina Chauhan,India,Delhi,Female,1979-09-07,,,,
+NEW-0178,2019-07-14,Organic,2020-07-14,Standard,Annual,,,16.99,1928,38,0,Isha Joshi,India,Punjab,Female,1979-09-01,2026-01-08,Y,60.0,3.0
+NEW-0179,2026-03-27,Organic,2026-04-27,Standard,Monthly,2026-07-31,Not enough content,16.99,462,62,1,Ananya Patel,India,Maharashtra,Male,1987-06-21,,,,
+NEW-0180,2019-04-14,Paid,2019-05-14,Basic,Monthly,2019-06-05,Poor service,6.99,451,87,1,Tushar Malhotra,India,Tamil Nadu,Male,1994-07-14,,,,
+NEW-0181,2023-07-19,Paid,2023-08-18,Basic,Monthly,,,7.99,442,36,0,Pankaj Verma,India,Rajasthan,Male,1982-11-12,,,,
+NEW-0182,2021-01-30,Organic,2021-03-02,Basic,Monthly,,,8.99,552,5,0,Ananya Mishra,India,Maharashtra,Male,1970-09-18,,,,
+NEW-0183,2024-02-02,Refferal,2024-03-03,Standard,Monthly,2024-07-11,Switched to competitor,16.99,671,74,1,Bhavna Verma,India,Delhi,Female,1971-12-21,2026-01-25,Y,50.0,1.0
+NEW-0184,2022-01-01,Organic,2022-01-29,Premium,Monthly,,,28.99,2022,24,0,Ananya Verma,India,Maharashtra,Male,1975-12-28,,,,
+NEW-0185,2021-12-31,Organic,2022-12-31,Premium,Annual,,,24.99,3026,41,0,Isha Rana,India,Punjab,Male,2007-06-15,,,,
+NEW-0186,2019-05-11,Refferal,2019-06-08,Basic,Monthly,,,6.99,585,48,0,Akshay Patel,India,Haryana,Male,1981-10-15,,,,
+NEW-0187,2025-05-01,Refferal,2025-06-01,Premium,Monthly,,,24.99,1397,29,0,Simran Verma,India,Punjab,Female,1989-03-17,,,,
+NEW-0188,2023-10-09,Refferal,2023-11-08,Standard,Monthly,,,14.99,998,43,0,Aditi Rana,India,Delhi,Male,1981-04-10,,,,
+NEW-0189,2021-04-28,Organic,2023-04-28,Standard,Annual,,,15.99,1727,35,0,Bhavna Shah,India,West Bengal,Male,1975-06-23,,,,
+NEW-0190,2025-06-29,Organic,2026-06-29,Premium,Annual,,,26.99,1669,36,0,Varun Joshi,India,Karnataka,Male,1991-04-22,2025-08-07,Y,80.0,1.0
+NEW-0191,2024-04-17,Refferal,2024-05-15,Basic,Monthly,,,6.99,444,10,0,Ayush Bansal,India,Rajasthan,Male,1975-06-29,2025-11-15,N,80.0,1.0
+NEW-0192,2020-08-10,Organic,2020-09-07,Basic,Monthly,2020-10-06,Switched to competitor,6.99,403,90,1,Pooja Arora,India,Tamil Nadu,Female,1975-06-16,,,,
+NEW-0193,2023-09-30,Organic,2023-10-28,Premium,Monthly,2024-04-19,Too expensive,22.99,1414,67,1,Ansh Joshi,India,Uttar Pradesh,Female,1971-07-30,,,,
+NEW-0194,2026-02-08,Refferal,2027-02-09,Standard,Annual,2026-07-31,Switched to competitor,15.99,566,78,1,Ankit Patel,India,West Bengal,Female,1982-09-23,2026-03-02,N,50.0,1.0
+NEW-0195,2019-10-04,Organic,2019-11-04,Premium,Monthly,,,28.99,2526,23,0,Harsh Das,India,Tamil Nadu,Female,1997-12-17,,,,
+NEW-0196,2019-04-04,Refferal,2019-05-04,Standard,Monthly,,,14.99,1563,33,0,Yash Arora,India,Maharashtra,Male,1983-02-15,2019-08-28,Y,90.0,1.0
+NEW-0197,2019-01-10,Organic,2019-02-07,Standard,Monthly,,,15.99,1520,23,0,Vivek Patel,India,Uttar Pradesh,Male,1972-08-20,,,,
+NEW-0198,2021-08-04,Organic,2021-09-03,Standard,Monthly,,,15.99,1125,38,0,Neha Bansal,India,Haryana,Female,1975-09-10,,,,
+NEW-0199,2024-08-04,Organic,2024-09-04,Premium,Monthly,,,22.99,1853,31,0,Sourabh Verma,India,Delhi,Male,1974-04-21,,,,
+NEW-0200,2024-04-01,Organic,2024-05-01,Basic,Monthly,2024-07-22,Poor service,6.99,314,77,1,Ankit Chauhan,India,Karnataka,Female,1997-02-18,2025-01-31,N,80.0,1.0
+NEW-0201,2026-03-25,Organic,2026-04-24,Basic,Monthly,2026-07-02,Too expensive,8.99,222,72,1,Naman Singh,India,Tamil Nadu,Male,1999-04-16,,,,
+NEW-0202,2020-04-26,Organic,2020-05-26,Basic,Monthly,,,6.99,609,26,0,Rohan Mishra,India,Tamil Nadu,Female,1998-05-18,,,,
+NEW-0203,2022-01-29,Organic,2022-02-26,Standard,Monthly,,,15.99,1277,32,0,Vivek Patel,India,Uttar Pradesh,Female,1999-11-08,,,,
+NEW-0204,2025-09-19,Paid,2025-10-20,Basic,Monthly,,,6.99,317,26,0,Ankit Verma,India,Gujarat,Female,1975-10-03,,,,
+NEW-0205,2022-11-07,Organic,2023-11-08,Basic,Annual,2024-03-01,Too expensive,8.99,426,78,1,Divya Bansal,India,Uttar Pradesh,Female,1995-10-19,,,,
+NEW-0206,2019-11-05,Organic,2019-12-06,Basic,Monthly,,,6.99,586,19,0,Kavya Sharma,India,Uttar Pradesh,Male,1983-05-12,2020-04-13,N,50.0,1.0
+NEW-0207,2023-02-13,Organic,2023-03-13,Basic,Monthly,,,8.99,478,31,0,Sakshi Das,India,Delhi,Female,1989-05-06,,,,
+NEW-0208,2020-04-08,Refferal,2020-05-08,Basic,Monthly,2020-08-03,Too expensive,8.99,446,79,1,Riya Agarwal,India,Gujarat,Male,1974-11-29,,,,
+NEW-0209,2026-05-01,Paid,2026-05-29,Standard,Monthly,,,15.99,705,25,0,Nisha Agarwal,India,Haryana,Female,1972-06-14,,,,
+NEW-0210,2022-03-15,Refferal,2022-04-14,Basic,Monthly,,,8.99,537,16,0,Manish Joshi,India,Maharashtra,Male,1991-04-18,,,,
+NEW-0211,2020-10-14,Organic,2021-10-14,Basic,Annual,,,8.99,752,36,0,Naman Patel,India,Delhi,Male,2004-08-26,,,,
+NEW-0212,2019-07-08,Organic,2019-08-07,Standard,Monthly,2020-01-14,Too expensive,14.99,1009,78,1,Tanvi Nair,India,Punjab,Male,1980-07-27,,,,
+NEW-0213,2022-09-24,Organic,2022-10-25,Standard,Monthly,2022-12-11,Too expensive,14.99,732,75,1,Raj Kapoor,India,Uttar Pradesh,Female,1998-12-10,,,,
+NEW-0214,2019-02-16,Refferal,2019-03-18,Standard,Monthly,,,16.99,1554,36,0,Varun Mehta,India,Haryana,Male,1997-07-30,,,,
+NEW-0215,2021-06-14,Organic,2021-07-14,Standard,Monthly,2021-09-18,Not enough content,16.99,839,99,1,Arjun Yadav,India,Punjab,Male,1974-01-12,,,,
+NEW-0216,2020-08-12,Organic,2020-09-12,Premium,Monthly,,,24.99,2620,22,0,Aditya Chauhan,India,Uttar Pradesh,Female,1994-09-15,,,,
+NEW-0217,2025-08-22,Organic,2025-09-21,Basic,Monthly,,,6.99,371,20,0,Neha Gupta,India,Punjab,Male,1984-11-10,,,,
+NEW-0218,2021-08-16,Paid,2021-09-16,Standard,Monthly,2022-02-03,Poor service,16.99,718,83,1,Vikas Yadav,India,Karnataka,Female,1980-10-21,,,,
+NEW-0219,2024-12-03,Organic,2024-12-31,Standard,Monthly,,,13.99,767,21,0,Manish Gupta,India,Gujarat,Male,1998-11-10,,,,
+NEW-0220,2020-08-29,Organic,2020-09-26,Standard,Monthly,,,13.99,1314,36,0,Pankaj Shah,India,Rajasthan,Male,1997-08-30,,,,
+NEW-0221,2019-02-17,Organic,2019-03-17,Standard,Monthly,,,15.99,1383,16,0,Vikas Gupta,India,Rajasthan,Male,1996-12-11,,,,
+NEW-0222,2025-07-21,Organic,2026-07-22,Basic,Annual,,,7.99,426,26,0,Varun Bansal,India,Rajasthan,Female,1999-12-26,,,,
+NEW-0223,2022-01-15,Paid,2023-01-15,Basic,Annual,2023-02-24,Switched to competitor,6.99,416,87,1,Vikas Kapoor,India,Karnataka,Male,1993-06-04,2024-09-17,Y,40.0,3.0
+NEW-0224,2024-06-20,Organic,2024-07-21,Basic,Monthly,,,6.99,363,24,0,Mohit Joshi,India,Tamil Nadu,Male,2006-02-09,,,,
+NEW-0225,2024-08-20,Paid,2025-08-20,Standard,Annual,,,15.99,1030,20,0,Meera Gupta,India,Uttar Pradesh,Female,1993-12-03,,,,
+NEW-0226,2023-03-11,Refferal,2024-03-10,Standard,Annual,,,13.99,1175,15,0,Nikhil Rana,India,Haryana,Female,1994-11-12,,,,
+NEW-0227,2022-02-23,Paid,2022-03-26,Basic,Monthly,,,7.99,551,32,0,Priya Malhotra,India,West Bengal,Male,1996-12-01,,,,
+NEW-0228,2024-11-10,Paid,2024-12-08,Standard,Monthly,2025-04-06,Switched to competitor,14.99,566,76,1,Yash Patel,India,Uttar Pradesh,Female,2000-03-17,,,,
+NEW-0229,2022-01-16,Organic,2022-02-15,Basic,Monthly,,,6.99,558,21,0,Sakshi Gupta,India,Maharashtra,Female,1980-10-20,2024-12-14,N,70.0,1.0
+NEW-0230,2021-05-20,Paid,2022-05-20,Premium,Annual,,,28.99,2858,46,0,Kavya Yadav,India,Uttar Pradesh,Female,1982-02-18,,,,
+NEW-0231,2019-12-07,Organic,2020-12-06,Standard,Annual,,,16.99,1916,32,0,Riya Jain,India,Rajasthan,Male,1997-09-01,2022-11-25,N,60.0,1.0
+NEW-0232,2021-12-19,Paid,2022-01-16,Standard,Monthly,,,16.99,1145,10,0,Shreya Kapoor,India,Tamil Nadu,Female,2006-10-22,,,,
+NEW-0233,2021-07-25,Organic,2021-08-22,Standard,Monthly,,,14.99,1245,27,0,Meera Agarwal,India,Rajasthan,Male,1993-12-02,,,,
+NEW-0234,2021-12-14,Organic,2023-12-14,Basic,Annual,,,6.99,635,27,0,Ankit Mehta,India,Haryana,Female,2007-10-26,,,,
+NEW-0235,2021-05-10,Paid,2021-06-07,Standard,Monthly,,,14.99,1115,11,0,Nisha Joshi,India,Karnataka,Male,1981-12-27,,,,
+NEW-0236,2022-04-21,Refferal,2022-05-19,Basic,Monthly,2022-07-02,Too expensive,6.99,306,90,1,Aditi Agarwal,India,Rajasthan,Male,1993-10-10,2026-02-10,N,80.0,1.0
+NEW-0237,2021-10-31,Paid,2022-10-31,Standard,Annual,,,15.99,1384,29,0,Ayush Rana,India,Delhi,Male,1973-10-28,,,,
+NEW-0238,2023-05-05,Organic,2023-06-05,Basic,Monthly,2023-08-11,Poor service,6.99,358,82,1,Ayush Nair,India,Maharashtra,Female,2002-04-30,,,,
+NEW-0239,2020-09-04,Paid,2021-09-04,Standard,Annual,,,14.99,1537,14,0,Mohit Agarwal,India,Rajasthan,Female,1971-02-27,,,,
+NEW-0240,2022-08-19,Organic,2023-08-19,Basic,Annual,,,6.99,539,13,0,Tanvi Malhotra,India,Uttar Pradesh,Female,1984-07-19,,,,
+NEW-0241,2022-07-25,Organic,2022-08-22,Basic,Monthly,,,7.99,523,29,0,Tanvi Bansal,India,Haryana,Male,1996-04-09,,,,
+NEW-0242,2022-05-14,Organic,2023-05-14,Premium,Annual,,,22.99,2471,41,0,Bhavna Kapoor,India,Maharashtra,Male,1998-05-10,,,,
+NEW-0243,2019-03-17,Paid,2019-04-17,Standard,Monthly,2019-07-09,Too expensive,16.99,1032,95,1,Riya Singh,India,Maharashtra,Male,1992-09-02,2023-02-01,Y,40.0,1.0
+NEW-0244,2026-01-05,Organic,2026-02-05,Basic,Monthly,,,6.99,344,41,0,Mohit Agarwal,India,Rajasthan,Female,1996-05-20,,,,
+NEW-0245,2023-05-10,Paid,2023-06-07,Basic,Monthly,,,8.99,429,19,0,Ananya Mishra,India,Rajasthan,Female,1973-02-26,,,,
+NEW-0246,2025-12-01,Refferal,2026-12-01,Basic,Annual,,,8.99,447,38,0,Rohan Arora,India,Punjab,Male,1991-07-06,,,,
+NEW-0247,2020-01-24,Paid,2020-02-24,Basic,Monthly,2020-03-26,Too expensive,7.99,461,73,1,Naman Malhotra,India,Maharashtra,Female,1992-07-05,,,,
+NEW-0248,2022-12-12,Refferal,2023-01-11,Basic,Monthly,,,7.99,493,24,0,Mohit Verma,India,Punjab,Male,1977-07-25,,,,
+NEW-0249,2025-03-07,Organic,2026-03-07,Basic,Annual,,,7.99,419,25,0,Varun Nair,India,Gujarat,Male,1994-03-05,2025-12-08,Y,50.0,3.0
+NEW-0250,2021-09-14,Organic,2021-10-12,Standard,Monthly,,,15.99,1093,4,0,Aarav Patel,India,Maharashtra,Male,1974-03-31,,,,
+NEW-0251,2025-04-01,Paid,2027-04-01,Premium,Annual,,,28.99,1842,29,0,Rahul Kapoor,India,Karnataka,Male,1987-03-22,2026-07-21,Y,50.0,3.0
+NEW-0252,2026-06-20,Organic,2027-06-21,Premium,Annual,,,26.99,1609,37,0,Manish Kumar,India,Delhi,Female,2008-04-09,,,,
+NEW-0253,2021-12-10,Organic,2022-01-07,Standard,Monthly,,,13.99,1247,19,0,Riya Chauhan,India,Rajasthan,Female,1987-08-25,,,,
+NEW-0254,2022-05-28,Organic,2022-06-27,Premium,Monthly,,,28.99,2019,37,0,Sameer Jain,India,Uttar Pradesh,Male,1999-01-21,,,,
+NEW-0255,2022-06-09,Refferal,2022-07-07,Basic,Monthly,2022-10-06,Poor service,8.99,383,66,1,Bhavna Mehta,India,Maharashtra,Female,2002-04-21,,,,
+NEW-0256,2020-11-29,Refferal,2020-12-27,Standard,Monthly,2021-01-06,Not enough content,13.99,845,71,1,Sonal Kumar,India,Delhi,Female,1975-07-16,,,,
+NEW-0257,2021-03-21,Refferal,2021-04-20,Basic,Monthly,,,6.99,528,34,0,Varun Yadav,India,West Bengal,Female,1988-09-14,,,,
+NEW-0258,2022-05-15,Refferal,2022-06-15,Basic,Monthly,2022-07-11,Poor service,8.99,303,69,1,Ayush Mishra,India,Rajasthan,Male,1993-05-29,,,,
+NEW-0259,2025-10-30,Refferal,2025-11-27,Premium,Monthly,,,26.99,1269,34,0,Raj Shah,India,Rajasthan,Female,2005-06-14,,,,
+NEW-0260,2025-12-30,Paid,2026-12-31,Premium,Annual,,,26.99,1760,27,0,Rohit Singh,India,West Bengal,Male,1976-09-18,,,,
+NEW-0261,2021-06-30,Refferal,2023-06-30,Basic,Annual,,,7.99,669,29,0,Manish Mishra,India,Uttar Pradesh,Male,1984-11-17,,,,
+NEW-0262,2024-11-06,Refferal,2026-11-06,Basic,Annual,,,6.99,522,11,0,Neha Das,India,West Bengal,Female,1977-05-27,,,,
+NEW-0263,2022-05-29,Paid,2022-06-28,Basic,Monthly,2022-09-01,Poor service,7.99,312,82,1,Tanvi Patel,India,Karnataka,Female,2000-01-12,2024-10-11,Y,40.0,2.0
+NEW-0264,2021-07-07,Paid,2021-08-07,Premium,Monthly,,,26.99,2151,36,0,Divya Mehta,India,Gujarat,Female,1984-05-10,,,,
+NEW-0265,2022-06-20,Paid,2022-07-18,Basic,Monthly,2022-12-14,Poor service,7.99,347,65,1,Mohit Gupta,India,Uttar Pradesh,Male,1981-04-17,,,,
+NEW-0266,2019-02-20,Refferal,2021-02-19,Basic,Annual,2021-04-04,Poor service,6.99,461,83,1,Sourabh Rana,India,Karnataka,Male,1995-01-20,,,,
+NEW-0267,2022-04-15,Organic,2022-05-13,Basic,Monthly,2022-07-01,Switched to competitor,6.99,349,71,1,Sourabh Singh,India,Tamil Nadu,Female,1995-01-14,,,,
+NEW-0268,2019-06-24,Refferal,2021-06-23,Premium,Annual,,,22.99,3338,10,0,Sanya Rana,India,Karnataka,Male,2003-03-07,,,,
+NEW-0269,2019-07-06,Paid,2021-07-05,Standard,Annual,,,13.99,1763,26,0,Vivek Agarwal,India,West Bengal,Female,2000-04-16,,,,
+NEW-0270,2019-02-04,Organic,2019-03-06,Basic,Monthly,2019-07-24,Too expensive,8.99,396,99,1,Rohan Saini,India,Maharashtra,Female,1975-10-26,,,,
+NEW-0271,2023-09-12,Organic,2023-10-13,Standard,Monthly,,,15.99,1067,8,0,Aman Sharma,India,Uttar Pradesh,Male,1978-09-06,2024-07-07,Y,30.0,1.0
+NEW-0272,2021-03-06,Refferal,2022-03-07,Basic,Annual,,,7.99,745,13,0,Vikas Sharma,India,Karnataka,Male,1995-02-15,,,,
+NEW-0273,2021-04-23,Paid,2021-05-24,Standard,Monthly,2021-07-19,Poor service,15.99,970,72,1,Rohit Arora,India,Gujarat,Male,1976-08-29,2023-01-13,N,60.0,1.0
+NEW-0274,2021-01-02,Organic,2021-02-01,Standard,Monthly,,,15.99,1153,27,0,Kriti Singh,India,Rajasthan,Male,1985-06-06,,,,
+NEW-0275,2025-09-27,Organic,2025-10-25,Standard,Monthly,,,15.99,801,29,0,Harsh Saini,India,Karnataka,Female,2008-03-06,2026-06-23,N,90.0,1.0
+NEW-0276,2024-02-07,Organic,2024-03-09,Basic,Monthly,,,7.99,429,22,0,Kriti Yadav,India,Uttar Pradesh,Male,1998-09-24,,,,
+NEW-0277,2026-06-02,Paid,2026-06-30,Basic,Monthly,,,7.99,297,21,0,Vivek Verma,India,Haryana,Female,1981-08-23,,,,
+NEW-0278,2020-08-08,Paid,2021-08-08,Standard,Annual,,,16.99,1709,11,0,Divya Saini,India,Delhi,Male,1996-03-22,,,,
+NEW-0279,2022-05-30,Organic,2023-05-31,Standard,Annual,,,14.99,1362,42,0,Sanya Chauhan,India,West Bengal,Female,2007-07-09,,,,
+NEW-0280,2020-12-29,Organic,2021-01-29,Premium,Monthly,,,28.99,2331,26,0,Ananya Chauhan,India,Uttar Pradesh,Female,1987-04-27,,,,
+NEW-0281,2025-05-18,Paid,2025-06-15,Premium,Monthly,2025-10-01,Switched to competitor,24.99,1000,93,1,Naina Yadav,India,Tamil Nadu,Female,2001-03-10,,,,
+NEW-0282,2024-08-23,Refferal,2026-08-23,Standard,Annual,,,14.99,1160,20,0,Sonal Joshi,India,Karnataka,Female,1971-03-08,,,,
+NEW-0283,2025-12-26,Organic,2026-12-26,Basic,Annual,,,6.99,371,27,0,Bhavna Chauhan,India,Uttar Pradesh,Male,1983-11-16,,,,
+NEW-0284,2024-02-19,Organic,2024-03-21,Premium,Monthly,,,24.99,1878,27,0,Raj Rana,India,Gujarat,Female,1987-02-19,,,,
+NEW-0285,2020-06-12,Organic,2020-07-10,Standard,Monthly,,,13.99,1450,30,0,Pankaj Saini,India,Maharashtra,Male,1993-05-06,2022-08-21,N,90.0,1.0
+NEW-0286,2026-02-13,Organic,2027-02-13,Basic,Annual,,,6.99,399,30,0,Ananya Saini,India,Gujarat,Female,1994-01-28,,,,
+NEW-0287,2026-01-29,Paid,2027-01-30,Basic,Annual,,,6.99,407,8,0,Bhavna Arora,India,Gujarat,Female,1997-04-23,,,,
+NEW-0288,2024-12-26,Organic,2026-12-26,Basic,Annual,,,7.99,488,26,0,Divya Yadav,India,Uttar Pradesh,Male,1974-05-03,,,,
+NEW-0289,2022-07-10,Refferal,2022-08-07,Premium,Monthly,2023-01-30,Switched to competitor,22.99,1292,81,1,Nikhil Gupta,India,Delhi,Male,1987-05-05,2022-09-17,Y,40.0,1.0
+NEW-0290,2024-04-29,Organic,2024-05-30,Basic,Monthly,2024-08-20,Poor service,6.99,246,62,1,Ansh Agarwal,India,Gujarat,Male,1993-03-22,,,,
+NEW-0291,2022-01-15,Organic,2023-01-16,Standard,Annual,,,15.99,1462,25,0,Sanya Rana,India,Karnataka,Male,1973-09-14,,,,
+NEW-0292,2022-12-05,Organic,2023-01-05,Standard,Monthly,2023-03-11,Too expensive,16.99,632,85,1,Naman Mishra,India,West Bengal,Female,1982-01-15,,,,
+NEW-0293,2022-11-16,Organic,2022-12-16,Basic,Monthly,2022-12-23,Not enough content,8.99,385,82,1,Akash Mehta,India,Rajasthan,Female,1989-04-23,2025-05-25,Y,50.0,1.0
+NEW-0294,2024-05-26,Paid,2024-06-23,Basic,Monthly,2024-09-11,Switched to competitor,6.99,280,71,1,Kriti Mehta,India,Punjab,Female,1991-01-01,,,,
+NEW-0295,2023-04-10,Organic,2023-05-10,Standard,Monthly,,,16.99,1142,25,0,Pooja Rana,India,Punjab,Male,1979-08-12,,,,
+NEW-0296,2025-07-17,Organic,2025-08-16,Premium,Monthly,,,24.99,1555,39,0,Isha Saini,India,West Bengal,Female,1979-09-03,2025-09-20,N,80.0,1.0
+NEW-0297,2020-06-24,Paid,2020-07-22,Basic,Monthly,,,6.99,604,28,0,Aman Rana,India,Delhi,Female,1979-01-23,,,,
+NEW-0298,2025-04-16,Organic,2025-05-17,Standard,Monthly,2025-09-23,Switched to competitor,13.99,498,84,1,Aman Shah,India,Maharashtra,Female,1971-11-16,,,,
+NEW-0299,2019-09-04,Paid,2019-10-02,Standard,Monthly,,,15.99,1423,21,0,Ananya Chauhan,India,Maharashtra,Female,1980-09-07,,,,
+NEW-0300,2023-02-17,Organic,2023-03-17,Basic,Monthly,,,8.99,460,51,0,Raj Malhotra,India,Maharashtra,Male,1987-10-27,2025-05-31,N,70.0,1.0
+NEW-0301,2023-03-27,Organic,2023-04-26,Standard,Monthly,2023-07-20,Not enough content,15.99,657,70,1,Rahul Rana,India,Punjab,Male,2000-12-31,,,,
+NEW-0302,2024-06-03,Organic,2026-06-03,Premium,Annual,,,24.99,2141,18,0,Simran Rana,India,Tamil Nadu,Female,1975-11-22,2024-11-21,Y,80.0,1.0
+NEW-0303,2023-12-23,Organic,2024-01-20,Basic,Monthly,,,8.99,414,9,0,Isha Malhotra,India,Uttar Pradesh,Female,1990-05-07,,,,
+NEW-0304,2021-05-03,Paid,2022-05-03,Standard,Annual,,,14.99,1410,34,0,Bhavna Chauhan,India,Rajasthan,Male,1974-01-01,2025-09-06,N,80.0,1.0
+NEW-0305,2020-11-10,Organic,2020-12-08,Standard,Monthly,,,13.99,1345,50,0,Sneha Malhotra,India,Rajasthan,Male,1974-03-31,,,,
+NEW-0306,2023-11-13,Refferal,2024-11-12,Standard,Annual,,,16.99,1158,31,0,Kriti Arora,India,Maharashtra,Male,2002-12-10,,,,
+NEW-0307,2024-04-11,Organic,2025-04-12,Standard,Annual,,,13.99,1186,19,0,Pankaj Sharma,India,Haryana,Female,1982-06-05,2025-03-23,N,50.0,1.0
+NEW-0308,2025-02-24,Organic,2025-03-24,Basic,Monthly,,,8.99,400,33,0,Arjun Arora,India,Uttar Pradesh,Female,2004-11-25,,,,
+NEW-0309,2023-05-25,Refferal,2023-06-24,Basic,Monthly,,,7.99,415,26,0,Aditya Kumar,India,Karnataka,Male,1978-03-22,,,,
+NEW-0310,2026-03-17,Organic,2027-03-17,Basic,Annual,,,6.99,375,16,0,Pankaj Sharma,India,Karnataka,Female,2003-04-13,,,,
+NEW-0311,2024-10-14,Paid,2024-11-11,Standard,Monthly,,,15.99,924,28,0,Varun Kapoor,India,Maharashtra,Female,1984-06-21,,,,
+NEW-0312,2022-11-04,Paid,2023-11-05,Standard,Annual,,,14.99,1418,34,0,Sneha Patel,India,Gujarat,Female,1987-02-22,2025-02-21,N,70.0,1.0
+NEW-0313,2023-02-03,Organic,2023-03-05,Standard,Monthly,2023-04-19,Poor service,13.99,702,78,1,Tarun Sharma,India,West Bengal,Female,2000-07-08,,,,
+NEW-0314,2021-12-02,Paid,2022-12-03,Basic,Annual,,,7.99,699,28,0,Priya Das,India,Delhi,Female,2003-11-25,2022-08-01,N,90.0,1.0
+NEW-0315,2020-10-03,Organic,2021-10-04,Basic,Annual,,,6.99,753,60,0,Mohit Malhotra,India,Tamil Nadu,Male,1972-06-10,,,,
+NEW-0316,2020-04-23,Paid,2020-05-24,Standard,Monthly,,,14.99,1319,36,0,Nikhil Nair,India,Gujarat,Female,1990-11-23,,,,
+NEW-0317,2020-03-05,Organic,2020-04-05,Basic,Monthly,,,8.99,545,16,0,Ankit Rana,India,Delhi,Female,1985-11-10,,,,
+NEW-0318,2022-01-01,Paid,2022-01-29,Standard,Monthly,2022-05-30,Too expensive,15.99,691,75,1,Sakshi Nair,India,Karnataka,Female,2007-11-20,,,,
+NEW-0319,2026-07-01,Organic,2026-08-01,Basic,Monthly,,,6.99,312,23,0,Aman Gupta,India,Maharashtra,Male,1994-07-25,,,,
+NEW-0320,2024-03-26,Paid,2024-04-25,Basic,Monthly,,,8.99,389,21,0,Pankaj Gupta,India,Punjab,Female,1983-08-16,,,,
+NEW-0321,2024-03-20,Paid,2026-03-20,Basic,Annual,,,6.99,553,13,0,Raj Kapoor,India,Punjab,Male,1998-12-07,,,,
+NEW-0322,2020-05-02,Organic,2020-06-02,Standard,Monthly,,,16.99,1318,22,0,Kriti Mehta,India,West Bengal,Female,1973-03-04,,,,
+NEW-0323,2025-03-04,Paid,2025-04-01,Standard,Monthly,2025-05-12,Switched to competitor,13.99,652,78,1,Akash Saini,India,Tamil Nadu,Male,1974-07-11,,,,
+NEW-0324,2025-12-31,Organic,2027-12-31,Premium,Annual,,,28.99,1910,24,0,Isha Bansal,India,West Bengal,Female,1972-12-05,2026-07-10,Y,40.0,3.0
+NEW-0325,2023-04-22,Paid,2023-05-20,Basic,Monthly,2023-08-13,Too expensive,6.99,348,72,1,Tarun Malhotra,India,Tamil Nadu,Female,1998-10-12,,,,
+NEW-0326,2021-11-12,Organic,2021-12-13,Basic,Monthly,,,7.99,575,18,0,Riya Mishra,India,Tamil Nadu,Male,2001-07-02,,,,
+NEW-0327,2019-11-22,Organic,2019-12-22,Standard,Monthly,2020-01-23,Switched to competitor,13.99,955,77,1,Isha Gupta,India,Karnataka,Male,1993-12-09,,,,
+NEW-0328,2021-02-28,Paid,2022-02-28,Standard,Annual,,,13.99,1555,24,0,Sameer Arora,India,West Bengal,Male,1978-10-22,2022-11-01,Y,90.0,1.0
+NEW-0329,2022-08-16,Organic,2023-08-17,Premium,Annual,,,26.99,2779,2,0,Nisha Das,India,Uttar Pradesh,Male,1984-11-20,,,,
+NEW-0330,2021-06-04,Paid,2022-06-05,Basic,Annual,2022-10-20,Not enough content,7.99,522,85,1,Sneha Agarwal,India,Rajasthan,Male,2000-09-22,2025-01-21,Y,40.0,3.0
+NEW-0331,2019-12-15,Paid,2020-01-12,Basic,Monthly,2020-05-17,Too expensive,7.99,451,72,1,Aryan Jain,India,Karnataka,Male,1985-07-14,2025-01-25,Y,20.0,2.0
+NEW-0332,2020-06-01,Refferal,2020-07-01,Standard,Monthly,,,16.99,1238,10,0,Kavya Chauhan,India,Gujarat,Female,1986-11-11,,,,
+NEW-0333,2020-05-13,Organic,2020-06-10,Basic,Monthly,,,7.99,610,13,0,Rohan Patel,India,Delhi,Female,1976-04-15,,,,
+NEW-0334,2022-02-18,Organic,2024-02-18,Standard,Annual,,,16.99,1492,26,0,Karan Agarwal,India,Rajasthan,Male,1991-01-08,,,,
+NEW-0335,2025-05-21,Paid,2026-05-22,Basic,Annual,,,6.99,435,27,0,Meera Yadav,India,Maharashtra,Male,1977-02-04,,,,
+NEW-0336,2020-03-19,Refferal,2021-03-20,Standard,Annual,,,13.99,1574,21,0,Neha Chauhan,India,Gujarat,Male,1970-01-06,,,,
+NEW-0337,2020-03-06,Organic,2020-04-05,Basic,Monthly,,,7.99,659,26,0,Aarav Gupta,India,Haryana,Male,1998-06-02,2022-02-05,N,80.0,1.0
+NEW-0338,2023-12-01,Paid,2024-12-01,Basic,Annual,,,6.99,539,22,0,Kavya Sharma,India,Punjab,Male,1991-09-21,,,,
+NEW-0339,2024-12-14,Paid,2025-01-11,Basic,Monthly,2025-02-17,Too expensive,8.99,247,80,1,Yash Saini,India,Rajasthan,Female,1996-01-19,,,,
+NEW-0340,2023-09-27,Organic,2024-09-27,Standard,Annual,,,14.99,1195,28,0,Bhavna Shah,India,Rajasthan,Male,2002-06-20,,,,
+NEW-0341,2025-10-09,Refferal,2025-11-08,Premium,Monthly,,,24.99,1322,32,0,Shreya Nair,India,Haryana,Female,1979-11-01,,,,
+NEW-0342,2025-03-22,Organic,2025-04-21,Standard,Monthly,2025-09-19,Poor service,16.99,544,77,1,Tanvi Rana,India,Delhi,Male,2001-10-30,2026-01-06,Y,20.0,3.0
+NEW-0343,2023-04-23,Organic,2024-04-23,Basic,Annual,,,6.99,580,30,0,Manish Nair,India,Tamil Nadu,Male,1994-08-12,,,,
+NEW-0344,2025-07-18,Paid,2025-08-18,Basic,Monthly,,,6.99,326,37,0,Tanvi Malhotra,India,Delhi,Male,2007-02-13,,,,
+NEW-0345,2022-01-12,Paid,2024-01-12,Standard,Annual,2024-05-11,Switched to competitor,14.99,1095,78,1,Arjun Agarwal,India,Haryana,Male,1986-01-29,,,,
+NEW-0346,2023-06-27,Paid,2024-06-27,Premium,Annual,,,28.99,2472,30,0,Ayush Nair,India,West Bengal,Male,1983-08-22,,,,
+NEW-0347,2022-01-18,Refferal,2023-01-19,Premium,Annual,,,24.99,2457,40,0,Sneha Verma,India,Gujarat,Male,2006-11-03,,,,
+NEW-0348,2026-03-17,Organic,2028-03-16,Basic,Annual,,,6.99,415,15,0,Rohan Kapoor,India,Punjab,Female,2005-04-03,,,,
+NEW-0349,2024-12-20,Organic,2025-01-20,Standard,Monthly,,,13.99,898,5,0,Varun Kumar,India,Maharashtra,Male,1980-03-13,,,,
+NEW-0350,2026-06-21,Organic,2026-07-19,Standard,Monthly,,,13.99,613,23,0,Mohit Malhotra,India,Delhi,Female,1994-06-19,,,,
+NEW-0351,2021-12-24,Paid,2022-01-24,Premium,Monthly,2022-03-22,Too expensive,28.99,1643,69,1,Aditi Kapoor,India,Punjab,Male,2008-04-26,,,,
+NEW-0352,2022-08-10,Paid,2022-09-09,Standard,Monthly,2022-10-02,Switched to competitor,16.99,759,83,1,Aditi Kumar,India,Uttar Pradesh,Female,1985-04-19,,,,
+NEW-0353,2019-04-04,Organic,2020-04-03,Basic,Annual,,,6.99,753,26,0,Ansh Yadav,India,Haryana,Male,1985-07-14,,,,
+NEW-0354,2020-07-07,Paid,2020-08-07,Premium,Monthly,,,24.99,2600,33,0,Priya Das,India,Karnataka,Male,1989-06-01,,,,
+NEW-0355,2024-04-16,Organic,2024-05-16,Standard,Monthly,,,16.99,916,23,0,Shreya Chauhan,India,Tamil Nadu,Female,1990-05-07,2026-03-19,Y,60.0,2.0
+NEW-0356,2022-06-28,Refferal,2022-07-28,Basic,Monthly,2022-08-16,Poor service,8.99,385,69,1,Ansh Patel,India,Uttar Pradesh,Male,2001-02-02,2025-09-21,N,60.0,1.0
+NEW-0357,2023-03-11,Paid,2024-03-10,Premium,Annual,,,28.99,2259,19,0,Ankit Kumar,India,Tamil Nadu,Female,1997-12-02,2026-06-24,Y,20.0,3.0
+NEW-0358,2020-10-05,Paid,2021-10-05,Premium,Annual,,,28.99,2905,29,0,Raj Verma,India,West Bengal,Female,1978-12-16,,,,
+NEW-0359,2019-06-10,Refferal,2019-07-08,Standard,Monthly,2019-11-21,Too expensive,13.99,930,82,1,Pankaj Kumar,India,Uttar Pradesh,Male,1971-12-14,,,,
+NEW-0360,2019-01-10,Refferal,2019-02-07,Standard,Monthly,,,16.99,1598,25,0,Mohit Saini,India,Uttar Pradesh,Female,1986-12-24,,,,
+NEW-0361,2023-07-14,Organic,2023-08-13,Basic,Monthly,,,8.99,466,13,0,Akash Verma,India,West Bengal,Female,1997-03-09,,,,
+NEW-0362,2022-08-24,Refferal,2022-09-24,Standard,Monthly,,,14.99,1111,29,0,Tushar Verma,India,Maharashtra,Male,1993-06-22,2025-02-02,N,50.0,1.0
+NEW-0363,2020-07-13,Organic,2020-08-13,Standard,Monthly,,,16.99,1256,29,0,Rahul Yadav,India,Maharashtra,Male,1994-11-16,,,,
+NEW-0364,2021-03-13,Organic,2022-03-13,Standard,Annual,,,13.99,1447,34,0,Rohit Mishra,India,Rajasthan,Male,1981-09-02,,,,
+NEW-0365,2022-04-08,Organic,2022-05-09,Standard,Monthly,,,16.99,1224,15,0,Nisha Saini,India,Karnataka,Male,2006-06-21,,,,
+NEW-0366,2019-12-26,Organic,2020-01-25,Basic,Monthly,2020-05-19,Switched to competitor,7.99,411,73,1,Raj Nair,India,Uttar Pradesh,Female,1981-01-24,,,,
+NEW-0367,2022-04-17,Organic,2022-05-17,Basic,Monthly,,,7.99,535,23,0,Raj Nair,India,Uttar Pradesh,Female,1974-06-25,,,,
+NEW-0368,2025-12-09,Refferal,2026-12-10,Standard,Annual,,,14.99,851,24,0,Vivek Bansal,India,Haryana,Female,1987-09-26,,,,
+NEW-0369,2023-08-01,Paid,2023-08-31,Standard,Monthly,,,14.99,968,31,0,Rahul Shah,India,Maharashtra,Male,1986-08-07,,,,
+NEW-0370,2026-01-28,Refferal,2026-02-27,Standard,Monthly,2026-05-06,Not enough content,13.99,594,57,1,Aditya Patel,India,Haryana,Male,1978-02-24,,,,
+NEW-0371,2022-06-12,Paid,2022-07-12,Premium,Monthly,2022-08-31,Poor service,24.99,1650,83,1,Tushar Mehta,India,Gujarat,Female,1987-08-25,,,,
+NEW-0372,2026-01-17,Paid,2026-02-17,Basic,Monthly,,,8.99,350,21,0,Aditya Chauhan,India,West Bengal,Male,1995-08-03,2026-07-27,Y,50.0,3.0
+NEW-0373,2023-08-24,Refferal,2023-09-24,Standard,Monthly,2023-11-07,Poor service,16.99,682,71,1,Naman Sharma,India,West Bengal,Male,1999-12-12,2025-09-14,Y,40.0,2.0
+NEW-0374,2025-11-30,Organic,2026-11-30,Premium,Annual,,,22.99,1850,51,0,Simran Kapoor,India,Uttar Pradesh,Female,1986-10-10,2026-02-23,Y,60.0,2.0
+NEW-0375,2020-08-23,Refferal,2022-08-23,Basic,Annual,,,7.99,663,11,0,Manish Kumar,India,Karnataka,Male,2004-11-05,,,,
+NEW-0376,2021-05-18,Paid,2021-06-15,Basic,Monthly,,,6.99,550,22,0,Priya Chauhan,India,Uttar Pradesh,Male,2001-04-23,,,,
+NEW-0377,2024-01-02,Paid,2024-02-01,Basic,Monthly,,,6.99,407,14,0,Aditi Bansal,India,Haryana,Male,1991-10-05,,,,
+NEW-0378,2019-02-18,Refferal,2020-02-18,Premium,Annual,,,24.99,3375,16,0,Yash Patel,India,Maharashtra,Female,1999-09-28,,,,
+NEW-0379,2023-03-19,Paid,2023-04-19,Standard,Monthly,2023-06-23,Too expensive,16.99,791,70,1,Sneha Malhotra,India,Gujarat,Male,1974-02-21,,,,
+NEW-0380,2020-07-10,Organic,2021-07-10,Standard,Annual,,,16.99,1840,15,0,Nisha Singh,India,Uttar Pradesh,Male,1988-01-16,,,,
+NEW-0381,2023-09-23,Organic,2023-10-23,Basic,Monthly,,,6.99,458,37,0,Tarun Joshi,India,Tamil Nadu,Male,1999-06-02,,,,
+NEW-0382,2021-06-23,Refferal,2021-07-23,Standard,Monthly,,,15.99,1138,8,0,Divya Singh,India,Uttar Pradesh,Male,1973-11-22,2023-07-04,Y,50.0,1.0
+NEW-0383,2019-10-17,Paid,2019-11-17,Basic,Monthly,2020-01-25,Too expensive,8.99,381,73,1,Shivam Chauhan,India,Tamil Nadu,Female,1984-12-28,,,,
+NEW-0384,2019-11-29,Organic,2020-11-29,Premium,Annual,,,22.99,3056,20,0,Naina Joshi,India,Uttar Pradesh,Male,1999-01-11,,,,
+NEW-0385,2022-01-03,Paid,2023-01-04,Basic,Annual,,,6.99,656,23,0,Naman Agarwal,India,Karnataka,Female,2005-02-04,,,,
+NEW-0386,2019-08-13,Paid,2019-09-13,Standard,Monthly,,,15.99,1507,11,0,Riya Joshi,India,Gujarat,Male,1987-02-22,,,,
+NEW-0387,2023-09-21,Paid,2024-09-21,Premium,Annual,,,22.99,2446,21,0,Nikhil Mehta,India,Karnataka,Female,1982-08-08,2025-08-21,N,80.0,1.0
+NEW-0388,2023-01-24,Organic,2024-01-25,Basic,Annual,,,8.99,564,23,0,Manish Rana,India,Punjab,Male,1995-06-19,,,,
+NEW-0389,2026-03-17,Refferal,2026-04-14,Premium,Monthly,,,22.99,1238,43,0,Tanya Agarwal,India,Karnataka,Male,1998-11-19,,,,
+NEW-0390,2020-03-30,Refferal,2020-04-27,Standard,Monthly,,,16.99,1504,18,0,Arjun Kapoor,India,Tamil Nadu,Female,1997-02-02,2023-06-04,N,70.0,1.0
+NEW-0391,2023-01-24,Refferal,2023-02-23,Basic,Monthly,,,8.99,458,19,0,Sakshi Mishra,India,Punjab,Male,1992-12-13,,,,
+NEW-0392,2021-07-16,Paid,2021-08-16,Premium,Monthly,2021-09-26,Too expensive,24.99,1420,83,1,Sourabh Bansal,India,Delhi,Female,1993-05-28,,,,
+NEW-0393,2025-05-21,Paid,2025-06-18,Standard,Monthly,,,14.99,792,22,0,Sanya Verma,India,Maharashtra,Male,2005-02-03,,,,
+NEW-0394,2021-07-06,Organic,2021-08-05,Premium,Monthly,,,24.99,2548,38,0,Riya Saini,India,Tamil Nadu,Female,1976-05-01,2024-06-17,Y,60.0,1.0
+NEW-0395,2024-02-11,Refferal,2024-03-12,Basic,Monthly,,,8.99,405,41,0,Aman Rana,India,Maharashtra,Female,1972-09-01,,,,
+NEW-0396,2026-07-06,Organic,2026-08-03,Standard,Monthly,2026-07-31,Too expensive,16.99,523,90,1,Aditi Bansal,India,Delhi,Female,1987-10-19,2026-07-27,Y,40.0,3.0
+NEW-0397,2019-01-02,Paid,2019-02-01,Basic,Monthly,,,6.99,670,31,0,Rohan Patel,India,Rajasthan,Female,1993-06-22,2025-06-03,Y,50.0,2.0
+NEW-0398,2023-10-01,Organic,2023-10-31,Premium,Monthly,,,26.99,1941,44,0,Nikhil Gupta,India,Delhi,Female,1994-08-13,2025-03-17,N,70.0,1.0
+NEW-0399,2023-12-29,Paid,2024-12-28,Standard,Annual,,,15.99,1193,40,0,Vikas Bansal,India,Uttar Pradesh,Female,1998-12-30,2026-02-23,N,80.0,1.0
+NEW-0400,2023-08-28,Refferal,2024-08-27,Basic,Annual,2025-02-16,Not enough content,8.99,432,85,1,Ananya Shah,India,Haryana,Female,1995-06-11,,,,
+NEW-0401,2023-06-29,Organic,2023-07-27,Standard,Monthly,,,13.99,986,32,0,Karan Bansal,India,Karnataka,Female,1977-01-19,,,,
+NEW-0402,2023-10-07,Organic,2023-11-04,Basic,Monthly,2024-03-25,Poor service,6.99,309,89,1,Sonal Malhotra,India,Tamil Nadu,Male,1985-06-02,2026-07-01,Y,70.0,1.0
+NEW-0403,2024-04-15,Organic,2024-05-16,Basic,Monthly,,,6.99,431,30,0,Sneha Gupta,India,Karnataka,Male,1986-03-26,2024-08-03,N,100.0,1.0
+NEW-0404,2024-07-31,Refferal,2024-08-31,Standard,Monthly,,,13.99,840,30,0,Akshay Gupta,India,Haryana,Male,1995-06-28,,,,
+NEW-0405,2026-07-20,Organic,2026-08-20,Standard,Monthly,,,14.99,728,17,0,Karan Mishra,India,West Bengal,Male,1980-05-12,,,,
+NEW-0406,2021-02-19,Organic,2021-03-21,Basic,Monthly,,,6.99,518,37,0,Akshay Malhotra,India,Tamil Nadu,Female,1990-09-13,2024-12-21,N,70.0,1.0
+NEW-0407,2024-04-02,Organic,2024-05-02,Basic,Monthly,,,8.99,440,30,0,Naina Kumar,India,Uttar Pradesh,Female,1977-01-28,,,,
+NEW-0408,2020-03-21,Refferal,2021-03-22,Standard,Annual,,,13.99,1899,14,0,Divya Agarwal,India,Rajasthan,Female,1974-11-23,,,,
+NEW-0409,2021-12-30,Paid,2022-01-30,Standard,Monthly,,,15.99,1073,23,0,Rohan Mehta,India,Haryana,Male,2008-01-02,,,,
+NEW-0410,2019-09-13,Paid,2019-10-11,Standard,Monthly,,,15.99,1492,18,0,Simran Bansal,India,Tamil Nadu,Female,1977-09-17,,,,
+NEW-0411,2019-12-08,Refferal,2020-01-05,Standard,Monthly,,,13.99,1288,30,0,Ananya Nair,India,Maharashtra,Female,2004-04-27,,,,
+NEW-0412,2021-08-12,Paid,2021-09-11,Standard,Monthly,2021-11-12,Not enough content,16.99,890,81,1,Rohit Bansal,India,West Bengal,Female,2007-08-12,2023-10-26,N,70.0,1.0
+NEW-0413,2022-02-08,Paid,2022-03-08,Basic,Monthly,,,6.99,467,22,0,Aarav Jain,India,Haryana,Female,1998-08-16,,,,
+NEW-0414,2020-02-21,Organic,2021-02-20,Premium,Annual,,,28.99,2962,31,0,Naman Nair,India,Gujarat,Female,1997-02-16,,,,
+NEW-0415,2023-05-01,Organic,2023-05-31,Basic,Monthly,,,6.99,405,29,0,Rohit Verma,India,Punjab,Male,1980-06-29,,,,
+NEW-0416,2023-09-28,Organic,2023-10-28,Basic,Monthly,,,7.99,475,41,0,Naina Gupta,India,Haryana,Male,2000-08-05,,,,
+NEW-0417,2020-10-10,Refferal,2020-11-07,Basic,Monthly,,,7.99,634,24,0,Akshay Gupta,India,Haryana,Female,1992-02-07,,,,
+NEW-0418,2022-11-05,Refferal,2022-12-03,Standard,Monthly,,,15.99,1169,49,0,Sonal Chauhan,India,Delhi,Female,2000-06-30,,,,
+NEW-0419,2021-02-14,Refferal,2021-03-17,Standard,Monthly,2021-06-16,Too expensive,15.99,735,84,1,Simran Arora,India,Punjab,Male,1978-03-22,,,,
+NEW-0420,2021-03-14,Organic,2023-03-14,Basic,Annual,,,8.99,626,22,0,Naina Mehta,India,Tamil Nadu,Female,1990-05-15,2021-06-12,Y,60.0,1.0
+NEW-0421,2021-10-01,Organic,2022-10-02,Standard,Annual,,,16.99,1590,32,0,Aditya Agarwal,India,Tamil Nadu,Female,1975-05-08,2024-02-06,N,100.0,1.0
+NEW-0422,2022-02-11,Refferal,2023-02-11,Basic,Annual,,,7.99,571,33,0,Aditi Singh,India,West Bengal,Female,1972-07-31,2023-05-30,Y,60.0,1.0
+NEW-0423,2026-03-05,Refferal,2026-04-02,Basic,Monthly,,,8.99,334,32,0,Tarun Patel,India,Rajasthan,Male,1974-02-27,,,,
+NEW-0424,2026-02-15,Refferal,2026-03-17,Basic,Monthly,,,6.99,319,23,0,Meera Shah,India,Rajasthan,Female,1986-10-01,,,,
+NEW-0425,2021-01-13,Paid,2021-02-12,Basic,Monthly,2021-03-22,Not enough content,8.99,397,90,1,Meera Bansal,India,Uttar Pradesh,Female,1979-11-27,,,,
+NEW-0426,2023-10-03,Organic,2023-10-31,Basic,Monthly,,,7.99,418,15,0,Isha Gupta,India,Rajasthan,Male,1971-05-31,,,,
+NEW-0427,2022-03-01,Refferal,2023-03-02,Standard,Annual,,,14.99,1471,26,0,Ananya Das,India,Uttar Pradesh,Female,2003-02-03,,,,
+NEW-0428,2025-05-14,Organic,2025-06-11,Basic,Monthly,,,6.99,344,47,0,Riya Shah,India,Punjab,Male,1988-07-30,,,,
+NEW-0429,2020-11-04,Organic,2022-11-04,Basic,Annual,,,7.99,687,4,0,Ankit Patel,India,Maharashtra,Female,1976-06-21,,,,
+NEW-0430,2021-12-19,Organic,2022-01-18,Basic,Monthly,,,7.99,462,38,0,Sneha Mehta,India,Maharashtra,Male,1987-07-02,2024-08-17,N,70.0,1.0
+NEW-0431,2020-10-08,Paid,2020-11-08,Standard,Monthly,2021-04-25,Poor service,14.99,1008,57,1,Sonal Das,India,Delhi,Male,1979-03-09,,,,
+NEW-0432,2026-01-01,Refferal,2027-01-02,Basic,Annual,,,8.99,447,23,0,Ansh Das,India,Gujarat,Male,1985-12-13,,,,
+NEW-0433,2025-10-17,Organic,2027-10-17,Standard,Annual,2026-07-31,Not enough content,15.99,566,94,1,Varun Joshi,India,Maharashtra,Male,1988-08-11,,,,
+NEW-0434,2024-04-20,Organic,2024-05-21,Basic,Monthly,,,6.99,362,30,0,Pooja Sharma,India,Uttar Pradesh,Female,1977-10-10,,,,
+NEW-0435,2020-09-17,Refferal,2020-10-15,Premium,Monthly,,,24.99,2735,17,0,Tushar Nair,India,Delhi,Male,1989-02-05,,,,
+NEW-0436,2025-08-22,Refferal,2027-08-22,Basic,Annual,,,8.99,409,9,0,Nikhil Kapoor,India,Rajasthan,Male,2002-03-07,,,,
+NEW-0437,2021-01-17,Organic,2021-02-17,Standard,Monthly,2021-05-10,Too expensive,15.99,845,79,1,Rahul Chauhan,India,Punjab,Female,1976-03-15,,,,
+NEW-0438,2022-11-30,Organic,2022-12-31,Standard,Monthly,2023-05-27,Switched to competitor,13.99,725,74,1,Tushar Jain,India,Maharashtra,Female,1972-12-31,,,,
+NEW-0439,2020-12-01,Organic,2020-12-31,Standard,Monthly,,,16.99,1269,32,0,Naman Rana,India,Gujarat,Male,1997-02-17,,,,
+NEW-0440,2024-01-01,Organic,2024-02-01,Standard,Monthly,,,14.99,854,37,0,Manish Yadav,India,Karnataka,Female,2002-01-10,,,,
+NEW-0441,2022-01-23,Refferal,2022-02-23,Standard,Monthly,2022-08-21,Poor service,14.99,922,81,1,Naina Rana,India,West Bengal,Female,1974-03-27,,,,
+NEW-0442,2022-12-25,Paid,2023-12-25,Standard,Annual,,,16.99,1228,34,0,Ansh Patel,India,Maharashtra,Female,2006-11-09,2023-01-21,N,70.0,1.0
+NEW-0443,2025-01-27,Organic,2025-02-26,Standard,Monthly,2025-05-29,Not enough content,15.99,578,66,1,Vivek Verma,India,Punjab,Female,1998-06-01,2025-08-12,Y,40.0,3.0
+NEW-0444,2022-04-29,Refferal,2022-05-30,Standard,Monthly,,,14.99,1042,23,0,Raj Agarwal,India,Tamil Nadu,Male,1995-07-18,,,,
+NEW-0445,2020-03-16,Organic,2020-04-15,Standard,Monthly,2020-08-03,Poor service,14.99,972,86,1,Sanya Mehta,India,Punjab,Female,2006-06-26,,,,
+NEW-0446,2025-05-11,Organic,2027-05-11,Standard,Annual,,,13.99,947,26,0,Divya Mehta,India,Uttar Pradesh,Female,1974-01-17,,,,
+NEW-0447,2019-07-07,Organic,2020-07-06,Standard,Annual,,,14.99,1647,21,0,Shreya Mehta,India,Maharashtra,Female,1978-01-05,,,,
+NEW-0448,2022-07-27,Organic,2022-08-24,Basic,Monthly,2022-10-06,Not enough content,6.99,392,68,1,Akshay Saini,India,Karnataka,Male,1974-10-24,,,,
+NEW-0449,2026-03-26,Organic,2026-04-26,Basic,Monthly,,,6.99,337,34,0,Sameer Rana,India,West Bengal,Male,2001-05-03,,,,
+NEW-0450,2022-05-02,Organic,2022-06-02,Basic,Monthly,,,7.99,508,30,0,Sameer Joshi,India,Delhi,Male,1970-11-04,,,,
+NEW-0451,2019-08-20,Paid,2019-09-20,Standard,Monthly,,,13.99,1344,29,0,Aman Yadav,India,Punjab,Male,2003-11-24,2024-04-12,N,70.0,1.0
+NEW-0452,2019-04-15,Organic,2021-04-14,Standard,Annual,,,15.99,1679,29,0,Neha Arora,India,Rajasthan,Female,1997-06-18,,,,
+NEW-0453,2026-06-10,Organic,2026-07-08,Premium,Monthly,,,28.99,1163,16,0,Aditi Singh,India,Karnataka,Male,1982-11-24,,,,
+NEW-0454,2019-11-25,Organic,2019-12-26,Basic,Monthly,,,6.99,579,26,0,Sonal Rana,India,Punjab,Female,1988-03-21,,,,
+NEW-0455,2019-11-07,Organic,2020-11-06,Basic,Annual,,,8.99,690,12,0,Bhavna Chauhan,India,Maharashtra,Male,1981-09-02,,,,
+NEW-0456,2023-09-18,Organic,2023-10-18,Basic,Monthly,2024-03-09,Not enough content,8.99,270,71,1,Isha Sharma,India,Punjab,Male,1977-10-31,,,,
+NEW-0457,2026-04-04,Organic,2026-05-04,Standard,Monthly,2026-07-31,Too expensive,15.99,440,87,1,Tanvi Singh,India,Gujarat,Female,1972-05-28,2026-05-15,Y,50.0,1.0
+NEW-0458,2021-01-12,Organic,2021-02-11,Basic,Monthly,,,6.99,544,21,0,Sakshi Das,India,Delhi,Female,1980-07-17,,,,
+NEW-0459,2023-06-26,Organic,2023-07-27,Basic,Monthly,,,6.99,458,27,0,Naina Saini,India,West Bengal,Female,1991-12-30,2023-10-04,Y,100.0,1.0
+NEW-0460,2021-09-16,Refferal,2021-10-17,Basic,Monthly,,,6.99,482,21,0,Vivek Patel,India,Tamil Nadu,Male,2005-11-29,,,,
+NEW-0461,2020-11-03,Organic,2020-12-04,Basic,Monthly,,,8.99,559,31,0,Akshay Das,India,Karnataka,Female,1983-06-01,,,,
+NEW-0462,2025-07-29,Organic,2026-07-29,Basic,Annual,,,7.99,451,12,0,Riya Gupta,India,West Bengal,Female,1983-12-03,,,,
+NEW-0463,2022-02-13,Organic,2022-03-16,Standard,Monthly,,,14.99,1141,32,0,Nisha Jain,India,Karnataka,Female,2007-10-30,,,,
+NEW-0464,2024-05-11,Organic,2025-05-12,Standard,Annual,,,14.99,1191,47,0,Simran Nair,India,Gujarat,Female,1981-01-25,,,,
+NEW-0465,2024-04-24,Paid,2024-05-25,Basic,Monthly,2024-11-11,Not enough content,6.99,239,84,1,Pooja Yadav,India,Maharashtra,Male,1982-02-12,,,,
+NEW-0466,2021-11-09,Organic,2021-12-10,Standard,Monthly,,,15.99,1208,26,0,Rohit Rana,India,Delhi,Male,2006-08-20,,,,
+NEW-0467,2025-12-19,Paid,2026-12-20,Standard,Annual,,,13.99,990,17,0,Ananya Sharma,India,Gujarat,Female,2002-03-17,,,,
+NEW-0468,2024-04-04,Organic,2024-05-04,Basic,Monthly,2024-08-09,Poor service,6.99,282,71,1,Sakshi Singh,India,Delhi,Male,1995-03-13,,,,
+NEW-0469,2022-09-15,Refferal,2023-09-16,Standard,Annual,2024-01-05,Too expensive,16.99,913,75,1,Riya Jain,India,Maharashtra,Female,1970-02-06,2025-01-25,Y,40.0,2.0
+NEW-0470,2025-07-30,Organic,2025-08-30,Standard,Monthly,,,14.99,845,14,0,Priya Agarwal,India,Karnataka,Male,1975-05-07,,,,
+NEW-0471,2025-09-13,Paid,2025-10-14,Standard,Monthly,,,13.99,849,24,0,Sourabh Rana,India,Gujarat,Male,2008-04-04,,,,
+NEW-0472,2020-05-01,Refferal,2020-05-31,Basic,Monthly,,,6.99,643,38,0,Sanya Joshi,India,Gujarat,Male,2005-02-12,2024-04-07,N,60.0,1.0
+NEW-0473,2020-02-08,Refferal,2022-02-07,Standard,Annual,,,15.99,1846,23,0,Sakshi Chauhan,India,Tamil Nadu,Male,2005-09-23,,,,
+NEW-0474,2019-02-18,Refferal,2019-03-21,Standard,Monthly,,,16.99,1481,21,0,Akshay Patel,India,Tamil Nadu,Male,1995-12-30,,,,
+NEW-0475,2019-03-16,Refferal,2020-03-16,Standard,Annual,,,15.99,1702,30,0,Vivek Jain,India,Karnataka,Female,1996-07-06,,,,
+NEW-0476,2024-04-15,Organic,2024-05-13,Basic,Monthly,,,8.99,376,29,0,Raj Yadav,India,Rajasthan,Male,1992-01-30,,,,
+NEW-0477,2021-05-16,Refferal,2021-06-13,Basic,Monthly,,,6.99,585,4,0,Raj Saini,India,Punjab,Female,1998-02-10,2023-04-17,N,80.0,1.0
+NEW-0478,2019-11-02,Organic,2019-12-03,Basic,Monthly,,,6.99,568,38,0,Sakshi Yadav,India,Uttar Pradesh,Male,1992-06-19,2024-09-03,Y,50.0,2.0
+NEW-0479,2024-11-20,Paid,2025-11-20,Basic,Annual,2026-04-14,Too expensive,7.99,300,77,1,Naman Kapoor,India,Karnataka,Female,1986-08-27,,,,
